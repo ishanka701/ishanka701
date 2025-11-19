@@ -1,28 +1,9 @@
-# 👨‍💻 Ishanka Chathuranga Botheju
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Science+Student+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Data+Into+Insights+%F0%9F%92%A1" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/yourusername)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:your.email@example.com)
-  
-</div>
-
----
-
-## 🌟 About Me
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Data Scientist Profile</title>
+    <title>Ishanka Chathuranga Botheju - GitHub Profile</title>
     <style>
         * {
             margin: 0;
@@ -31,399 +12,522 @@
         }
 
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: #0d1117;
+            color: #c9d1d9;
             min-height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            padding: 20px;
         }
 
-        .container {
-            background: rgba(255, 255, 255, 0.95);
-            border-radius: 20px;
-            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
-            max-width: 1200px;
-            width: 100%;
-            padding: 40px;
-            animation: fadeIn 0.8s ease-in;
-        }
-
-        @keyframes fadeIn {
-            from {
-                opacity: 0;
-                transform: translateY(20px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        .header {
-            text-align: center;
-            margin-bottom: 40px;
-        }
-
-        .profile-circle {
-            width: 150px;
-            height: 150px;
-            margin: 0 auto 20px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 60px;
-            color: white;
-            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
-            animation: pulse 2s infinite;
-        }
-
-        @keyframes pulse {
-            0%, 100% {
-                transform: scale(1);
-            }
-            50% {
-                transform: scale(1.05);
-            }
-        }
-
-        h1 {
-            color: #333;
-            font-size: 2.5em;
-            margin-bottom: 10px;
-        }
-
-        .role {
-            color: #667eea;
-            font-size: 1.3em;
-            font-weight: 600;
-            margin-bottom: 10px;
-        }
-
-        .location {
-            color: #666;
-            font-size: 1.1em;
-        }
-
-        .grid {
+        .github-container {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 20px;
-            margin-bottom: 30px;
+            grid-template-columns: 320px 1fr;
+            gap: 24px;
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 32px 24px;
         }
 
-        .card {
-            background: white;
-            border-radius: 15px;
-            padding: 25px;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        /* Left Sidebar */
+        .sidebar {
+            position: sticky;
+            top: 32px;
+            height: fit-content;
         }
 
-        .card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
-        }
-
-        .card-title {
-            font-size: 1.3em;
-            color: #667eea;
-            margin-bottom: 15px;
+        .profile-image {
+            width: 100%;
+            aspect-ratio: 1;
+            border-radius: 50%;
+            border: 1px solid #30363d;
+            margin-bottom: 16px;
+            object-fit: cover;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             display: flex;
             align-items: center;
-            gap: 10px;
+            justify-content: center;
+            font-size: 120px;
         }
 
-        .card-icon {
-            font-size: 1.5em;
-        }
-
-        .skill-tag {
-            display: inline-block;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 8px 15px;
-            border-radius: 20px;
-            margin: 5px;
-            font-size: 0.9em;
-            transition: transform 0.2s ease;
-        }
-
-        .skill-tag:hover {
-            transform: scale(1.1);
-        }
-
-        .learning-item {
-            background: #f8f9fa;
-            padding: 10px 15px;
-            border-radius: 10px;
-            margin: 8px 0;
-            border-left: 4px solid #667eea;
-            transition: background 0.3s ease;
-        }
-
-        .learning-item:hover {
-            background: #e9ecef;
-        }
-
-        .motivation-box {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 30px;
-            border-radius: 15px;
-            text-align: center;
-            font-size: 1.3em;
+        .profile-name {
+            font-size: 26px;
             font-weight: 600;
-            margin: 30px 0;
-            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
-            animation: glow 2s ease-in-out infinite;
+            line-height: 1.25;
+            color: #c9d1d9;
+            margin-bottom: 4px;
         }
 
-        @keyframes glow {
-            0%, 100% {
-                box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
-            }
-            50% {
-                box-shadow: 0 10px 40px rgba(102, 126, 234, 0.6);
-            }
+        .profile-username {
+            font-size: 20px;
+            font-weight: 300;
+            color: #8b949e;
+            margin-bottom: 16px;
         }
 
-        .console-output {
-            background: #1e1e1e;
-            color: #00ff00;
-            padding: 20px;
-            border-radius: 10px;
-            font-family: 'Courier New', monospace;
-            font-size: 1em;
-            margin-top: 20px;
-            box-shadow: inset 0 2px 10px rgba(0, 0, 0, 0.5);
+        .follow-btn {
+            width: 100%;
+            padding: 8px 16px;
+            background: #21262d;
+            color: #c9d1d9;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: background 0.2s;
         }
 
-        .console-line {
-            margin: 10px 0;
-            opacity: 0;
-            animation: typeIn 0.5s forwards;
+        .follow-btn:hover {
+            background: #30363d;
         }
 
-        .console-line:nth-child(1) {
-            animation-delay: 0.5s;
+        .profile-bio {
+            margin-top: 16px;
+            font-size: 14px;
+            line-height: 1.5;
+            color: #c9d1d9;
         }
 
-        .console-line:nth-child(2) {
-            animation-delay: 1s;
+        .profile-stats {
+            display: flex;
+            gap: 8px;
+            margin-top: 16px;
+            font-size: 14px;
+            color: #8b949e;
         }
 
-        @keyframes typeIn {
-            to {
-                opacity: 1;
-            }
+        .profile-stats a {
+            color: #8b949e;
+            text-decoration: none;
         }
 
-        .collab-badge {
-            display: inline-block;
-            background: #28a745;
-            color: white;
-            padding: 10px 20px;
-            border-radius: 25px;
-            font-weight: 600;
-            margin-top: 20px;
-            animation: bounce 1s infinite;
+        .profile-stats a:hover {
+            color: #58a6ff;
         }
 
-        @keyframes bounce {
-            0%, 100% {
-                transform: translateY(0);
-            }
-            50% {
-                transform: translateY(-5px);
-            }
+        .profile-info {
+            margin-top: 16px;
         }
 
         .info-item {
             display: flex;
             align-items: center;
-            gap: 10px;
-            margin: 12px 0;
-            color: #555;
+            gap: 8px;
+            margin-bottom: 8px;
+            font-size: 14px;
+            color: #8b949e;
         }
 
-        .info-icon {
-            font-size: 1.2em;
+        .info-item svg {
+            width: 16px;
+            height: 16px;
+            fill: #8b949e;
+        }
+
+        .info-item a {
+            color: #58a6ff;
+            text-decoration: none;
+        }
+
+        .info-item a:hover {
+            text-decoration: underline;
+        }
+
+        .achievements {
+            margin-top: 24px;
+        }
+
+        .section-title {
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 12px;
+        }
+
+        .achievement-badge {
+            width: 64px;
+            height: 64px;
+            border-radius: 50%;
+            border: 1px solid #30363d;
+            background: #161b22;
+        }
+
+        /* Main Content */
+        .main-content {
+            min-width: 0;
+        }
+
+        .tabs {
+            display: flex;
+            gap: 16px;
+            border-bottom: 1px solid #21262d;
+            margin-bottom: 24px;
+        }
+
+        .tab {
+            padding: 16px 8px;
+            color: #8b949e;
+            text-decoration: none;
+            border-bottom: 2px solid transparent;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .tab.active {
+            color: #c9d1d9;
+            border-bottom-color: #f78166;
+        }
+
+        .readme-header {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 12px 16px;
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-bottom: none;
+            border-radius: 6px 6px 0 0;
+            font-size: 14px;
+            color: #8b949e;
+        }
+
+        .readme-content {
+            background: #0d1117;
+            border: 1px solid #30363d;
+            border-radius: 0 0 6px 6px;
+            padding: 32px;
+        }
+
+        .readme-title {
+            font-size: 32px;
+            font-weight: 600;
+            margin-bottom: 16px;
+            text-align: center;
+        }
+
+        .readme-subtitle {
+            font-size: 20px;
+            text-align: center;
+            margin-bottom: 24px;
+            color: #8b949e;
+        }
+
+        .profile-views {
+            display: inline-block;
+            padding: 4px 8px;
+            background: #1f6feb;
+            border-radius: 4px;
+            font-size: 12px;
+            margin-left: 8px;
+        }
+
+        .role-badges {
+            text-align: center;
+            font-size: 18px;
+            color: #f0883e;
+            margin-bottom: 32px;
+            padding: 16px;
+            border-top: 1px solid #21262d;
+            border-bottom: 1px solid #21262d;
+        }
+
+        .info-section {
+            margin: 24px 0;
+        }
+
+        .info-section ul {
+            list-style: none;
+        }
+
+        .info-section li {
+            padding: 8px 0;
+            line-height: 1.6;
+        }
+
+        .info-section li::before {
+            content: "•";
+            color: #f0883e;
+            font-weight: bold;
+            display: inline-block;
+            width: 1em;
+            margin-left: -1em;
+        }
+
+        .info-section a {
+            color: #58a6ff;
+            text-decoration: none;
+        }
+
+        .info-section a:hover {
+            text-decoration: underline;
+        }
+
+        .connect-section {
+            text-align: center;
+            margin: 32px 0;
+            padding: 24px;
+            background: #161b22;
+            border-radius: 6px;
+        }
+
+        .social-icon {
+            display: inline-flex;
+            width: 64px;
+            height: 64px;
+            background: #0a66c2;
+            border-radius: 8px;
+            align-items: center;
+            justify-content: center;
+            font-size: 32px;
+            color: white;
+            text-decoration: none;
+            transition: transform 0.2s;
+        }
+
+        .social-icon:hover {
+            transform: scale(1.1);
+        }
+
+        .tech-stack {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            justify-content: center;
+            padding: 24px;
+            background: #161b22;
+            border-radius: 6px;
+            margin: 24px 0;
+        }
+
+        .tech-icon {
+            width: 48px;
+            height: 48px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #21262d;
+            border-radius: 8px;
+            font-size: 32px;
+            transition: transform 0.2s;
+        }
+
+        .tech-icon:hover {
+            transform: scale(1.1);
+        }
+
+        .trophies-section {
+            margin-top: 32px;
+        }
+
+        .trophies-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 16px;
+            margin-top: 16px;
+        }
+
+        .trophy-card {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 16px;
+            text-align: center;
+        }
+
+        .trophy-icon {
+            font-size: 48px;
+            margin-bottom: 8px;
+        }
+
+        .trophy-title {
+            font-size: 12px;
+            color: #8b949e;
+            margin-bottom: 4px;
+        }
+
+        .trophy-rank {
+            font-size: 14px;
+            font-weight: 600;
+            color: #f0883e;
+        }
+
+        @media (max-width: 768px) {
+            .github-container {
+                grid-template-columns: 1fr;
+            }
+            
+            .sidebar {
+                position: relative;
+                top: 0;
+            }
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <div class="header">
-            <div class="profile-circle">👨‍💻</div>
-            <h1>Ishanka Chathuranga Botheju</h1>
-            <div class="role">Data Science Student</div>
-            <div class="location">📍 Sri Lanka 🇱🇰</div>
-        </div>
-
-        <div class="grid">
-            <div class="card">
-                <div class="card-title">
-                    <span class="card-icon">🎓</span>
-                    Education
+    <div class="github-container">
+        <!-- Left Sidebar -->
+        <div class="sidebar">
+            <div class="profile-image">👨‍💻</div>
+            
+            <h1 class="profile-name">Ishanka Chathuranga</h1>
+            <div class="profile-username">Ishanka-git</div>
+            
+            <button class="follow-btn">Follow</button>
+            
+            <div class="profile-bio">
+                Data Science Student passionate about tech, ML, and automation. Skilled in web development, problem solving, and teamwork, always eager to learn and innovate.
+            </div>
+            
+            <div class="profile-stats">
+                <a href="#"><strong>0</strong> followers</a>
+                •
+                <a href="#"><strong>0</strong> following</a>
+            </div>
+            
+            <div class="profile-info">
+                <div class="info-item">
+                    <svg viewBox="0 0 16 16"><path d="M11.536 3.464a5 5 0 010 7.072L8 14.07l-3.536-3.535a5 5 0 117.072-7.072v.001zm1.06 8.132a6.5 6.5 0 10-9.192 0l3.535 3.536a1.5 1.5 0 002.122 0l3.535-3.536zM8 9a2 2 0 100-4 2 2 0 000 4z"></path></svg>
+                    Sri Lanka 🇱🇰
                 </div>
                 <div class="info-item">
-                    <span class="info-icon">📚</span>
-                    <div>
-                        <strong>BSc (Hons) Data Science</strong><br>
-                        <small>Your University Name</small>
+                    <svg viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+                    <a href="#">ishanka.vercel.app</a>
+                </div>
+                <div class="info-item">
+                    <svg viewBox="0 0 16 16"><path d="M13.545 2.907a13.227 13.227 0 0 0-3.257-1.011.05.05 0 0 0-.052.025c-.141.25-.297.577-.406.833a12.19 12.19 0 0 0-3.658 0 8.258 8.258 0 0 0-.412-.833.051.051 0 0 0-.052-.025c-1.125.194-2.22.534-3.257 1.011a.041.041 0 0 0-.021.018C.356 6.024-.213 9.047.066 12.032c.001.014.01.028.021.037a13.276 13.276 0 0 0 3.995 2.02.05.05 0 0 0 .056-.019c.308-.42.582-.863.818-1.329a.05.05 0 0 0-.01-.059.051.051 0 0 0-.018-.011 8.875 8.875 0 0 1-1.248-.595.05.05 0 0 1-.02-.066.051.051 0 0 1 .015-.019c.084-.063.168-.129.248-.195a.05.05 0 0 1 .051-.007c2.619 1.196 5.454 1.196 8.041 0a.052.052 0 0 1 .053.007c.08.066.164.132.248.195a.051.051 0 0 1-.004.085 8.254 8.254 0 0 1-1.249.594.05.05 0 0 0-.03.03.052.052 0 0 0 .003.041c.24.465.515.909.817 1.329a.05.05 0 0 0 .056.019 13.235 13.235 0 0 0 4.001-2.02.049.049 0 0 0 .021-.037c.334-3.451-.559-6.449-2.366-9.106a.034.034 0 0 0-.02-.019Zm-8.198 7.307c-.789 0-1.438-.724-1.438-1.612 0-.889.637-1.613 1.438-1.613.807 0 1.45.73 1.438 1.613 0 .888-.637 1.612-1.438 1.612Zm5.316 0c-.788 0-1.438-.724-1.438-1.612 0-.889.637-1.613 1.438-1.613.807 0 1.451.73 1.438 1.613 0 .888-.631 1.612-1.438 1.612Z"></path></svg>
+                    in/ishanka-botheju
+                </div>
+                <div class="info-item">
+                    <svg viewBox="0 0 16 16"><path d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"></path></svg>
+                    ishanka.fb
+                </div>
+            </div>
+            
+            <div class="achievements">
+                <div class="section-title">Achievements</div>
+                <div class="achievement-badge">🎖️</div>
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <div class="tabs">
+                <a href="#" class="tab active">📖 Overview</a>
+                <a href="#" class="tab">📁 Repositories <span style="background:#30363d;padding:2px 6px;border-radius:12px;font-size:12px;">0</span></a>
+                <a href="#" class="tab">📦 Projects</a>
+                <a href="#" class="tab">📦 Packages</a>
+                <a href="#" class="tab">⭐ Stars</a>
+            </div>
+
+            <div class="readme-header">
+                🔗 Ishanka-git / README.md
+            </div>
+
+            <div class="readme-content">
+                <h1 class="readme-title">Hi, I'm Ishanka Chathuranga Botheju</h1>
+                
+                <div class="readme-subtitle">
+                    Always excited to learn, build, and collaborate!
+                    <span class="profile-views">Profile views 345</span>
+                </div>
+
+                <div class="role-badges">
+                    Data Science Student | Machine Learning Enthusiast | AI & Deep Learning
+                </div>
+
+                <div class="info-section">
+                    <ul>
+                        <li>I'm currently learning <strong>Python, R, TensorFlow, and React</strong></li>
+                        <li>All of my projects are available on <a href="#">LinkedIn</a></li>
+                        <li>Reach me via: <a href="#">ishanka@example.com</a></li>
+                        <li>More about me on <a href="#">LinkedIn</a></li>
+                        <li><strong>Fun fact:</strong> I can debug code faster than I can decide what to eat! 😋💻</li>
+                    </ul>
+                </div>
+
+                <div class="connect-section">
+                    <h3 style="margin-bottom: 16px;">🔗 Connect with me:</h3>
+                    <a href="#" class="social-icon">in</a>
+                </div>
+
+                <div class="info-section">
+                    <h3 style="margin-bottom: 16px;">🛠️ Languages & Tools</h3>
+                </div>
+
+                <div class="tech-stack">
+                    <div class="tech-icon" title="React">⚛️</div>
+                    <div class="tech-icon" title="Angular">🅰️</div>
+                    <div class="tech-icon" title="Flutter">🦋</div>
+                    <div class="tech-icon" title="GraphQL">◼️</div>
+                    <div class="tech-icon" title="Node.js">🟢</div>
+                    <div class="tech-icon" title="Tailwind">🌊</div>
+                    <div class="tech-icon" title="HTML5">🌐</div>
+                    <div class="tech-icon" title="CSS3">🎨</div>
+                    <div class="tech-icon" title="JavaScript">JS</div>
+                    <div class="tech-icon" title="TypeScript">TS</div>
+                    <div class="tech-icon" title="Java">☕</div>
+                    <div class="tech-icon" title="C">C</div>
+                    <div class="tech-icon" title="C++">C++</div>
+                    <div class="tech-icon" title="Python">🐍</div>
+                    <div class="tech-icon" title="MongoDB">🍃</div>
+                    <div class="tech-icon" title="Firebase">🔥</div>
+                    <div class="tech-icon" title="AWS">☁️</div>
+                    <div class="tech-icon" title="Azure">🔷</div>
+                    <div class="tech-icon" title="TensorFlow">🧠</div>
+                    <div class="tech-icon" title="PyTorch">🔦</div>
+                    <div class="tech-icon" title="Git">📊</div>
+                    <div class="tech-icon" title="GitHub">🐙</div>
+                    <div class="tech-icon" title="VS Code">💻</div>
+                </div>
+
+                <div class="trophies-section">
+                    <h3 style="margin-bottom: 16px;">🏆 GitHub Trophies</h3>
+                    
+                    <div class="trophies-grid">
+                        <div class="trophy-card">
+                            <div class="trophy-icon">🔤</div>
+                            <div class="trophy-title">MultiLanguage</div>
+                            <div class="trophy-rank">GOLD</div>
+                        </div>
+                        <div class="trophy-card">
+                            <div class="trophy-icon">💬</div>
+                            <div class="trophy-title">Commits</div>
+                            <div class="trophy-rank">GOLD</div>
+                        </div>
+                        <div class="trophy-card">
+                            <div class="trophy-icon">📚</div>
+                            <div class="trophy-title">Repositories</div>
+                            <div class="trophy-rank">GOLD</div>
+                        </div>
+                        <div class="trophy-card">
+                            <div class="trophy-icon">⭐</div>
+                            <div class="trophy-title">Experience</div>
+                            <div class="trophy-rank">GOLD</div>
+                        </div>
+                        <div class="trophy-card">
+                            <div class="trophy-icon">👥</div>
+                            <div class="trophy-title">Followers</div>
+                            <div class="trophy-rank">GOLD</div>
+                        </div>
+                        <div class="trophy-card">
+                            <div class="trophy-icon">🎯</div>
+                            <div class="trophy-title">Issues</div>
+                            <div class="trophy-rank">GOLD</div>
+                        </div>
+                        <div class="trophy-card">
+                            <div class="trophy-icon">🔀</div>
+                            <div class="trophy-title">Pull Requests</div>
+                            <div class="trophy-rank">GOLD</div>
+                        </div>
+                        <div class="trophy-card">
+                            <div class="trophy-icon">⚡</div>
+                            <div class="trophy-title">Stars</div>
+                            <div class="trophy-rank">GOLD</div>
+                        </div>
                     </div>
                 </div>
             </div>
-
-            <div class="card">
-                <div class="card-title">
-                    <span class="card-icon">💡</span>
-                    Interests
-                </div>
-                <div>
-                    <span class="skill-tag">Machine Learning</span>
-                    <span class="skill-tag">Data Analytics</span>
-                    <span class="skill-tag">Web Development</span>
-                    <span class="skill-tag">AI & Deep Learning</span>
-                </div>
-            </div>
-
-            <div class="card">
-                <div class="card-title">
-                    <span class="card-icon">📖</span>
-                    Currently Learning
-                </div>
-                <div class="learning-item">🐍 Python</div>
-                <div class="learning-item">📊 R</div>
-                <div class="learning-item">🤖 TensorFlow</div>
-                <div class="learning-item">⚛️ React</div>
-            </div>
-        </div>
-
-        <div class="motivation-box">
-            "Turning data into insights, one algorithm at a time! 📊🤖"
-        </div>
-
-        <div class="card">
-            <div class="card-title">
-                <span class="card-icon">💼</span>
-                Collaboration Status
-            </div>
-            <div style="text-align: center;">
-                <span class="collab-badge">✅ Open to Collaborate!</span>
-            </div>
-        </div>
-
-        <div class="console-output">
-            <div class="console-line">> me.sayHi()</div>
-            <div class="console-line">Thanks for dropping by! Let's build something amazing together. 🚀</div>
         </div>
     </div>
 </body>
 </html>
-
-
-> **💡 "Turning data into insights, one algorithm at a time!"** 📊🤖
-
----
-
-## 🚀 Tech Stack & Tools
-
-<div align="center">
-
-### 📊 Data Science & ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 💻 Web Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 🔭 Working on **Machine Learning Projects**
-- 🌱 Learning **TensorFlow & Deep Learning**
-- 👯 Looking to collaborate on **Data Science & AI Projects**
-- 💬 Ask me about **Python, Data Analytics, Machine Learning**
-- 📫 How to reach me: **ishankachathurangamark@gmail.com**
-- ⚡ Fun fact: **I turn coffee into code and data into decisions!** ☕→💻
-
----
-
-## 🏆 Achievements & Highlights
-
-```python
-achievements = {
-    "education": "BSc (Hons) in Data Science",
-    "location": "Sri Lanka 🇱🇰",
-    "skills": ["Python", "R", "Machine Learning", "Data Analytics"],
-    "interests": ["AI", "Deep Learning", "Web Dev", "Data Visualization"],
-    "collaboration": "Open to exciting projects! 🤝"
-}
-```
-
----
-
-## 📊 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💭 *"The best way to predict the future is to create it with data."*
-
-**Thanks for dropping by! Let's build something amazing together.** 🚀
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
