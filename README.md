@@ -1,175 +1,31 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ishanka Chathuanga.</h1>
+<h3 align="center">A passionate Data Science undergraduate exploring AI, machine learning, and data-driven problem solving.</h3>
 
-# 👋 Hi there, I'm Ishanka Chathuranga Botheju.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanka701&label=Profile%20views&color=0e75b6&style=flat" alt="ishanka701" /> </p>
 
-### 🎓 Final Year Data Science Student | From Sri Lanka
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanka701" alt="ishanka701" /></a> </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=600&lines=Data+Science+Enthusiast;Hotel+Analytics+Developer;AI+%26+Machine+Learning+Explorer;Full+Stack+Developer" alt="Typing SVG" />
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Big Data Analytics, Python libraries (Pandas, NumPy, Scikit-Learn), and Data Engineering concepts**
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=vimukthi1239&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/vimukthi1239?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+- 💬 Ask me about **Python, Data Analysis, Machine Learning models, Visualization (Matplotlib / Seaborn), and SQL**
+
+- 📫 How to reach me **ishankachathurangamark@gmail.com**
+
+- ⚡ Fun fact **I turn messy datasets into meaningful insights 😉**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/ishanka-chathuranga2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ishanka-chathuranga2001" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/14rcnmykum9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/14rcnmykum9/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ishanka_o?igsh=mwu3nno5mgcxdmu2bw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ishanka_o?igsh=mwu3nno5mgcxdmu2bw==" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/ishankachathur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ishankachathur" height="30" width="40" /></a>
 </p>
 
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishanka701&show_icons=true&locale=en&layout=compact" alt="ishanka701" /></p>
 
-## 🚀 About Me
-<details open>
-  <summary><b>💻 View My Code Profile</b></summary>
-  <br>
-  
-  <pre lang="javascript">
-class DataScientist {
-    constructor() {
-        this.name = "Ishanka Chathuranga Botheju";
-        this.role = "Data Science Student";
-        this.location = "Sri Lanka 🇱🇰";
-        this.education = "BSc (Hons) Data Science";
-        this.interests = ["Machine Learning", "Data Analytics", "Web Development"];
-    }
-    
-    sayHi() {
-        console.log("Thanks for dropping by! Let's build something amazing together.");
-    }
-}
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanka701&show_icons=true&locale=en" alt="ishanka701" /></p>
 
-const me = new DataScientist();
-me.sayHi();
-  </pre>
-  
-  <p><strong>Output:</strong></p>
-  
-  <pre>
-Thanks for dropping by! Let's build something amazing together.
-  </pre>
-  
-</details>
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### Databases & Cloud
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-</p>
-
-### Data Science & ML
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-</p>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vimukthi1239&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimukthi1239&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimukthi1239&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vimukthi1239&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vimukthi1239&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/malshan-nawarathna" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://fb.com/malshan-nawarathna" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/malshan-nawarathna" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:2000malshan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://vimukthi1239.github.io/vimukthi/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vimukthi1239&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" alt="Top Contributed Repos"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
-  
-  ### 💡 "Data is the new oil, and I'm here to refine it!" 
-  
-  <p>⭐️ From <a href="https://github.com/vimukthi1239">Vimukthi1239</a> with ❤️</p>
-</div>
-```
-
----
-
-## 🔭 Current Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏨 Hotel Analytics Dashboard</h3>
-      <p align="center">
-        <a href="https://github.com/Vimukthi1239/hotel-analytics-dashboard" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-View%20Project-blue?style=for-the-badge&logo=github" alt="project link"/>
-        </a>
-      </p>
-      <p>Building an advanced analytics dashboard for hotel management with real-time insights and data visualization.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🤖 Hotel Management System with AI</h3>
-      <p align="center">
-        <a href="https://github.com/eshan2002/Hotel-Management-System-With-AI" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-Collaborate-green?style=for-the-badge&logo=github" alt="project link"/>
-        </a>
-      </p>
-      <p>Collaborating on an AI-powered hotel management system to revolutionize hospitality operations.</p>
-    </td>
-  </tr>
-</table>
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanka701&" alt="ishanka701" /></p>
