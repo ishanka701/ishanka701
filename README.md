@@ -6,7 +6,7 @@
 
 ### `Data Science Enthusiast | AI Explorer | Insight Hunter`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Machine+Learning+%7C+Deep+Learning+%7C+Analytics;Building+Tomorrow's+AI+Solutions+Today+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Machine+Learning+%7C+Deep+Learning+%7C+Analytics;Building+Tomorrow's+AI+Solutions+Today+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=ishanka701&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 
@@ -83,7 +83,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanka701&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=ishanka701&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 
 </div>
 
